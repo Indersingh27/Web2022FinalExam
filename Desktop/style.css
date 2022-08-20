@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Aboreto&display=swap');
+*{
+    margin: 0px;
+}
+.navbar
+{
+    background-color: aquamarine;
+    display: flex;
+    margin: 10px;
+    width: 200px;
+}
+.firststep
+{
+    display: flex;
+    background-color: beige; 
+    width: 100vw;
+}
+.about-content
+{
+    background-color: lightcyan;
+ 
+    padding: 100px;
+}
+.about-text
+{
+    background-color: lightsalmon;
+    width: 1000px;
+    padding: 20px;
+}
+.about{
+    background-color: lightcyan;
+}
+.education {
+    background-color: white;
+}
+.contact{
+    background-color: white;
+}
+.footer{
+    background-color: beige;
+}
